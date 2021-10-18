@@ -7,7 +7,7 @@ from scipy.optimize import linprog
 import pandas as pd
 import time
 
-print('-> Método da secante')
+print('-> Método SIMPLEX')
 time.sleep(1)
 
 '''
